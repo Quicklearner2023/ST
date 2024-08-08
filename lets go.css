@@ -1,0 +1,191 @@
+li{
+    padding: 20px 30px;
+    display: inline-block;
+}
+.header{
+    text-align: center;
+}
+#ssy{
+    float: left;
+}
+#rn{
+    float: right;
+    background-color: transparent;
+}
+span{
+    color: rgb(173, 37, 13);
+}
+a{
+    text-decoration: none;
+    color: rgb(236, 236, 234);
+    font-size: larger;
+    font-weight: bolder;
+
+    
+}
+*{
+    padding: 5px;
+}
+.pg1{
+    background-image: url(airbnb2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: default;
+    height: 49rem;
+    width: 100%;
+}
+button{
+    background-color: transparent;
+    border-radius: 10px;
+    transition: ease-in 0.5s;
+}
+ li :hover{
+    background-color: brown;
+    border-radius: 10px;
+    transition: ease-in 0.5s;
+    box-shadow: 0 0 10px 2px white;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+fieldset{
+    background-color: white;
+    cursor: default;
+    border-radius: 19px;
+    display:inline-flex ;
+    margin-left: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+input{
+    border: none;
+    outline: none;
+}
+.search{
+    border-radius: 100%;
+    width: 50px;
+    background-color: brown;
+    border: none;
+}
+.headlinks{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#img1{
+    background-image: url(airbnb1.jpg);
+    width: 250px;
+    height: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    color: white;
+    font-size: larger;
+    text-align: center;
+    margin: 10px;
+}
+#img2{
+    background-image: url(airbnb3.jpg);
+    width: 250px;
+    height: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 10px;
+}
+#img3{
+    background-image: url(airbnb4.jpg);
+    width: 250px;
+    height: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 10px;
+}
+#img4{
+    background-image: url(airbnb2.jpg);
+    width: 250px;
+    height: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 10px;
+}
+#img5{
+    background-image: url(airbnb5.jpg);
+    width: 250px;
+    height: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 10px;
+}
+#img6{
+    background-image: url(airbnb6.jpg);
+    width: 250px;
+    height: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 10px;
+}
+#img7{
+    background-image: url(airbnb8.jpg);
+    width: 250px;
+    height: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 10px;
+}
+#img8{
+    background-image: url(airbnb7.jpg);
+    width: 250px;
+    height: 15rem;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin: 10px;
+}
+#sample{
+     display: flex;
+    flex-wrap: wrap;
+    margin-left: 5rem;
+}
+#loop{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
